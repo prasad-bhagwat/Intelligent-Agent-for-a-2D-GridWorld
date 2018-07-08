@@ -1,4 +1,4 @@
-# Imports required for the program
+# Imports required for the  program
 from collections import deque
 
 # Dictionary Macro used
