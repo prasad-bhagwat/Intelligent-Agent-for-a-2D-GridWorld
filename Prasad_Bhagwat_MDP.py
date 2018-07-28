@@ -1,6 +1,7 @@
 # Imports required for the  program
 from collections import deque
 
+
 # Dictionary Macro used
 string_dict = {"0":"Walk Up", "1":"Walk Down", "2":"Walk Left", "3":"Walk Right", "4": "Run Up", "5": "Run Down", "6": "Run Left", "7": "Run Right", "8" : "Exit"}
 
